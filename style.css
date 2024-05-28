@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    font-weight: 100;
+    font-style: normal;
+    background-color: gold;
+    
+}
+.css{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    left: 500px;
+    top: 200px;
+    width: 370px;
+    gap: 20px;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+    font-weight: 500px;
+    box-shadow: 5px 5px 0px;
+    
+    
+
+    
+    
+ 
+
+}
+.img{
+    border-radius: 10px;
+}
+.h4{
+    background-color:  gold;
+    font-weight: 300px;
+    padding: 5px;
+    width: 75px;
+    border-radius: 5px;
+
+}
+.h3{
+    color: rgb(68, 65, 65);
+}
+
+.h2{
+    color: gray;
+}
+
+.img{
+    display: flex;
+    
+}
+
+.h5{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 15px;
+}
+
